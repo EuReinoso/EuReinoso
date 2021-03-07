@@ -2,7 +2,7 @@
 
 #### Linkedin: https://www.linkedin.com/in/lucas-rodrigues-reinoso-costa-9133b3194/
 
-#### Emai: lucas.reinoso.br@gmail.com
+#### Email: lucas.reinoso.br@gmail.com
 
 ## Alguns projetos:
 #### [Simple-Platform](https://github.com/EuReinoso/Simple-Platform)
