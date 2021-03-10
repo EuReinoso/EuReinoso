@@ -1,10 +1,10 @@
-## Olá! Sou Lucas Reinoso, estudante e amante de programação. Tenho conhecimento em C# e Python e atualmente aprimoro minhas habilidades por meio da criação de jogos.
+## Olá! Sou Lucas Reinoso, aspirante na área de Ciência da Computação. Tenho conhecimento em Python e C#, atualmente aprimoro meus conhecimentoas através dos estudos de Machine Learning.
 
 #### Linkedin: https://www.linkedin.com/in/lucas-rodrigues-reinoso-costa-9133b3194/
 
 #### Email: lucas.reinoso.br@gmail.com
 
-## Alguns projetos:
+## Alguns repositórios:
 #### [Simple-Platform](https://github.com/EuReinoso/Simple-Platform)
 ![Simple-Platform](https://github.com/EuReinoso/EuReinoso/blob/main/My_platform.gif)
 
