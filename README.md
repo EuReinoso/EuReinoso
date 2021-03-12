@@ -5,6 +5,9 @@
 #### Email: lucas.reinoso.br@gmail.com
 
 ## Alguns repositórios:
+#### [A* Pathfinding](https://github.com/EuReinoso/A-Star-Pathfinding)
+![map](https://user-images.githubusercontent.com/77119687/110880615-ad214280-82bd-11eb-9f3d-6a254c47f06f.png)
+
 #### [Simple-Platform](https://github.com/EuReinoso/Simple-Platform)
 ![Simple-Platform](https://github.com/EuReinoso/EuReinoso/blob/main/My_platform.gif)
 
@@ -14,7 +17,6 @@
 #### [Flappy-Bird](https://github.com/EuReinoso/FlappyBird)
 ![Flappy](https://github.com/EuReinoso/EuReinoso/blob/main/Flappy.gif)
 
-#### [A* Pathfinding](https://github.com/EuReinoso/A-Star-Pathfinding)
-![map](https://user-images.githubusercontent.com/77119687/110880615-ad214280-82bd-11eb-9f3d-6a254c47f06f.png)
+
 
 ### Vamos interagir?
