@@ -5,6 +5,10 @@
 #### Email: lucas.reinoso.br@gmail.com
 
 ## Alguns repositórios:
+
+#### [A-Star-Visual](https://github.com/EuReinoso/A-Star-Visual)
+<img src= "https://github.com/EuReinoso/A-Star-Visual/blob/master/assets/main.gif" width = "480" height = "360" />
+
 #### [A* Pathfinding](https://github.com/EuReinoso/A-Star-Pathfinding)
 <img src= "https://user-images.githubusercontent.com/77119687/110880615-ad214280-82bd-11eb-9f3d-6a254c47f06f.png" width = "480" height = "360" />
 
@@ -14,8 +18,7 @@
 #### [Platformer-Jump](https://github.com/EuReinoso/Platformer-Jump)
 <img src= "https://github.com/EuReinoso/EuReinoso/blob/main/Jump%20Plat.gif" width = "360" height = "480" />
 
-#### [Flappy-Bird](https://github.com/EuReinoso/FlappyBird)
-<img src= "https://github.com/EuReinoso/EuReinoso/blob/main/Flappy.gif" width = "480" height = "360" />
+
 
 
 ### Vamos interagir?
