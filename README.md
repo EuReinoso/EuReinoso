@@ -1,4 +1,4 @@
-## Olá! Sou Lucas Reinoso, aspirante na área de Ciência da Computação. Tenho conhecimento em Python e C#, atualmente me especializo em Machine Learning.
+## Olá! Sou Lucas Reinoso, aspirante na área de Ciência da Computação. Programador Python, atualmente me especializo em Data Science.
 
 #### Linkedin: https://www.linkedin.com/in/lucas-rodrigues-reinoso-costa-9133b3194/
 
