@@ -6,6 +6,10 @@
 
 ## Alguns repositórios:
 
+#### [Tratamento De Dados](https://github.com/EuReinoso/TratamentoDeDados)
+- Um tutorial passo a passo de como é feito o tratamento de dados.
+<img src= "https://github.com/EuReinoso/TratamentoDeDados/blob/master/assets/foto1.jpg" width = "440" height = "320" />
+
 #### [A-Star-Visual](https://github.com/EuReinoso/A-Star-Visual)
 - A* Pathfinding viewer.
 <img src= "https://github.com/EuReinoso/A-Star-Visual/blob/master/assets/main.gif" width = "480" height = "360" />
@@ -17,9 +21,5 @@
 #### [A* Pathfinding](https://github.com/EuReinoso/A-Star-Pathfinding)
 - A* pathfinding for a data map.
 <img src= "https://user-images.githubusercontent.com/77119687/110880615-ad214280-82bd-11eb-9f3d-6a254c47f06f.png" width = "480" height = "360" />
-
-#### [Simple-Platform](https://github.com/EuReinoso/Simple-Platform)
-- A simple platform game using pygame.
-<img src= "https://github.com/EuReinoso/EuReinoso/blob/main/My_platform.gif" width = "480" height = "360" />
 
 ### Vamos interagir?
