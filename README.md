@@ -6,6 +6,10 @@
 
 ## Alguns repositórios:
 
+#### [Machine Learning Tutorial](https://github.com/EuReinoso/MachineLearning-Tutorial)
+- Tutorial prático passo a passo de criação de modelos de Machine Learning.
+<img src= "https://github.com/EuReinoso/MachineLearning-Tutorial/blob/master/assets/ML.jpg" width = "480" height = "360" />
+
 #### [Tratamento De Dados](https://github.com/EuReinoso/TratamentoDeDados)
 - Um tutorial passo a passo de como é feito o tratamento de dados.
 <img src= "https://github.com/EuReinoso/TratamentoDeDados/blob/master/assets/foto1.jpg" width = "440" height = "320" />
@@ -18,8 +22,6 @@
 - Genetic/Evolutionary algorithm viewer.
 <img src= "https://github.com/EuReinoso/GeneticCells/raw/master/assets/default.gif?raw=true" width = "480" height = "360" />
 
-#### [A* Pathfinding](https://github.com/EuReinoso/A-Star-Pathfinding)
-- A* pathfinding for a data map.
-<img src= "https://user-images.githubusercontent.com/77119687/110880615-ad214280-82bd-11eb-9f3d-6a254c47f06f.png" width = "480" height = "360" />
+
 
 ### Vamos interagir?
