@@ -14,13 +14,13 @@
 - Um tutorial passo a passo de como é feito o tratamento de dados.
 <img src= "https://github.com/EuReinoso/TratamentoDeDados/blob/master/assets/foto1.jpg" width = "440" height = "320" />
 
-#### [A-Star-Visual](https://github.com/EuReinoso/A-Star-Visual)
+#### [Maze Generator](https://github.com/EuReinoso/Maze-Generator)
+- Maze generation viewer.
+<img src= "https://github.com/EuReinoso/Maze-Generator/blob/master/assets/large.gif" width = "480" height = "360" />
+
+#### [A-Star Viewer](https://github.com/EuReinoso/A-Star-Visual)
 - A* Pathfinding viewer.
 <img src= "https://github.com/EuReinoso/A-Star-Visual/blob/master/assets/main.gif" width = "480" height = "360" />
-
-#### [GeneticCells](https://github.com/EuReinoso/GeneticCells)
-- Genetic/Evolutionary algorithm viewer.
-<img src= "https://github.com/EuReinoso/GeneticCells/raw/master/assets/default.gif?raw=true" width = "480" height = "360" />
 
 
 
