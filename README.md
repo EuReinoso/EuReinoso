@@ -1,6 +1,6 @@
 ## Olá! Sou Lucas Reinoso, Programador Python, atualmente me especializo em Data Science.
 
-#### Linkedin: https://www.linkedin.com/in/lucas-rodrigues-reinoso-costa-9133b3194/
+### [Linkedin](https://www.linkedin.com/in/lucas-reinoso-9133b3194/)
 
 #### Email: lucas.reinoso.br@gmail.com
 
