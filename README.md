@@ -12,19 +12,19 @@ Email: lucas.reinoso.br@gmail.com
 
 #### [Machine Learning Tutorial](https://github.com/EuReinoso/MachineLearning-Tutorial)
 - Tutorial prático passo a passo de criação de modelos de Machine Learning.
-<img src= "https://github.com/EuReinoso/MachineLearning-Tutorial/blob/master/assets/ML.jpg" width = "480" height = "360" />
+<img src= "https://github.com/EuReinoso/MachineLearning-Tutorial/blob/master/assets/ML.jpg" width = "320" height = "240" />
 
 #### [Tratamento De Dados](https://github.com/EuReinoso/TratamentoDeDados)
 - Um tutorial passo a passo de como é feito o tratamento de dados.
-<img src= "https://github.com/EuReinoso/TratamentoDeDados/blob/master/assets/foto1.jpg" width = "440" height = "320" />
+<img src= "https://github.com/EuReinoso/TratamentoDeDados/blob/master/assets/foto1.jpg" width = "320" height = "240" />
 
 #### [Maze Generator](https://github.com/EuReinoso/Maze-Generator)
 - Maze generation viewer.
-<img src= "https://github.com/EuReinoso/Maze-Generator/blob/master/assets/large.gif" width = "480" height = "360" />
+<img src= "https://github.com/EuReinoso/Maze-Generator/blob/master/assets/large.gif" width = "320" height = "240" />
 
 #### [A-Star Viewer](https://github.com/EuReinoso/A-Star-Visual)
 - A* Pathfinding viewer.
-<img src= "https://github.com/EuReinoso/A-Star-Visual/blob/master/assets/main.gif" width = "480" height = "360" />
+<img src= "https://github.com/EuReinoso/A-Star-Visual/blob/master/assets/main.gif" width = "320" height = "240" />
 
 
 
