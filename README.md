@@ -1,10 +1,14 @@
-## Olá! Sou Lucas Reinoso, Programador Python, atualmente me especializo em Data Science.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SciKitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### [Linkedin](https://www.linkedin.com/in/lucas-reinoso-9133b3194/)
+## Hi! I'm Reinoso, a Python Programmer, currently specializing in Data Science.
 
-#### Email: lucas.reinoso.br@gmail.com
+### Contact:
 
-## Alguns repositórios:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-reinoso-9133b3194/) 
+
+Email: lucas.reinoso.br@gmail.com
+
+## Some Projects:
 
 #### [Machine Learning Tutorial](https://github.com/EuReinoso/MachineLearning-Tutorial)
 - Tutorial prático passo a passo de criação de modelos de Machine Learning.
@@ -24,4 +28,4 @@
 
 
 
-### Vamos interagir?
+### Let's interact?
