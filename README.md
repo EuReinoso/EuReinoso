@@ -14,9 +14,9 @@ Email: lucas.reinoso.br@gmail.com
 - Tutorial prático passo a passo de criação de modelos de Machine Learning.
 <img src= "https://github.com/EuReinoso/MachineLearning-Tutorial/blob/master/assets/ML.jpg" width = "320" height = "240" />
 
-#### [Tratamento De Dados](https://github.com/EuReinoso/TratamentoDeDados)
-- Um tutorial passo a passo de como é feito o tratamento de dados.
-<img src= "https://github.com/EuReinoso/TratamentoDeDados/blob/master/assets/foto1.jpg" width = "320" height = "240" />
+#### [Data Analisys](https://github.com/EuReinoso/Data-Analisys)
+- Data Analisys Notebooks.
+<img src= "https://user-images.githubusercontent.com/77119687/122305587-89355480-cedd-11eb-87aa-72df7c485a60.png" width = "320" height = "220" />
 
 #### [Maze Generator](https://github.com/EuReinoso/Maze-Generator)
 - Maze generation viewer.
