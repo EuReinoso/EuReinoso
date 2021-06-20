@@ -18,14 +18,12 @@ Email: lucas.reinoso.br@gmail.com
 - Data Analisys Notebooks.
 <img src= "https://user-images.githubusercontent.com/77119687/122305587-89355480-cedd-11eb-87aa-72df7c485a60.png" width = "320" height = "220" />
 
+#### [Sorting Algorithms](https://github.com/EuReinoso/Sorting-Algorithms)
+- Interface to visualize sorting algorithms.
+<img src= "https://github.com/EuReinoso/Sorting-Algorithms/blob/master/assets/heap.gif" width = "320" height = "240" />
+
 #### [Maze Generator](https://github.com/EuReinoso/Maze-Generator)
 - Maze generation viewer.
 <img src= "https://github.com/EuReinoso/Maze-Generator/blob/master/assets/large.gif" width = "320" height = "240" />
-
-#### [A-Star Viewer](https://github.com/EuReinoso/A-Star-Visual)
-- A* Pathfinding viewer.
-<img src= "https://github.com/EuReinoso/A-Star-Visual/blob/master/assets/main.gif" width = "320" height = "240" />
-
-
 
 ### Let's interact?
