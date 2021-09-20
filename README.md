@@ -1,6 +1,8 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![SciKitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
-## Hi! I'm Reinoso, Backend developer and Data Analysis enthusiast.
+## Hi! I'm Reinoso. 
+
+ :snake: Currently improving my skills in backend development with Python and Django. :snake:
 
 ### Contact:
 
@@ -25,5 +27,5 @@ Email: lucas.reinoso.br@gmail.com
 #### [Maze Generator](https://github.com/EuReinoso/Maze-Generator)
 - Maze generation viewer.
 <img src= "https://github.com/EuReinoso/Maze-Generator/blob/master/assets/large.gif" width = "320" height = "240" />
-
+  
 ### Let's interact?
