@@ -2,7 +2,9 @@
 
 ## Hi! I'm Reinoso. 
 
- :snake: Currently improving my skills in backend development with Python and Django. :snake:
+ :snake: I use python to facilitate my day to day activities and other stuff :snake:
+ 
+ Hobbist gamedev, see some projects on my [website](https://reinosoweb.vercel.app/)
 
 ### Contact:
 
