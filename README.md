@@ -14,12 +14,12 @@
 
 <div style="display: flex; align-items:center;">
  <span style="vertical-align:middle"> Webdev, data, gamedev and other automation stuff<br>see some projects on my  </span>
- <a  href="https://reinosoweb.vercel.app/" target="_blank">
+ <a  href="https://reinosoweb.vercel.app/">
   <img  src="https://img.shields.io/badge/website-007BFC?style=flat"/>
  </a>
 </div>
 
-### Contact
+### Social
 
 <a href="https://www.linkedin.com/in/lucas-reinoso-9133b3194/">
  <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" />
@@ -30,7 +30,6 @@
 <a href="lucas.reinoso.br@gmail.com">
  <img src="https://img.shields.io/badge/lucas.reinoso.br@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
- 
 
 
 
@@ -54,4 +53,5 @@
 <p>Maze generation viewer.</p>
 <kbd><img src= "https://github.com/EuReinoso/Maze-Generator/blob/master/assets/large.gif" width = "320" height = "240" /></kbd>
  </div>
+ 
  ### Let's interact?
