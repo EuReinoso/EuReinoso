@@ -14,7 +14,7 @@
 
 <div style="display: flex; align-items:center;">
  <span style="vertical-align:middle"> Webdev, data, gamedev and other automation stuff<br>see some projects on my  </span>
- <a  href="https://reinosoweb.vercel.app/">
+ <a  href="https://reinosoweb.vercel.app/" target="_blank">
   <img  src="https://img.shields.io/badge/website-007BFC?style=flat"/>
  </a>
 </div>
