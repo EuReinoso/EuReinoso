@@ -1,16 +1,30 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+ <p>
+    <img src="https://skillicons.dev/icons?i=py,cs,django,flask,dotnet,git" />
+</p>
 
 ## Hi! I'm Reinoso. 
 
- :snake: I use python to facilitate my day to day activities and other stuff :snake:
- 
- Hobbist gamedev, see some projects on my [website](https://reinosoweb.vercel.app/)
+<div style="display: flex; align-items:center;">
+ <span style="vertical-align:middle"> Webdev, data, gamedev and other automation stuff<br>see some projects on my  </span>
+ <a  href="[https://reinosoweb.vercel.app/">
+  <img  src="https://img.shields.io/badge/website-007BFC?style=flat"/>
+ </a>
+</div>
 
 ### Contact:
 
-[![Linkedin](https://img.shields.io/badge/lucasreinoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-reinoso-9133b3194/) [![Youtube](https://img.shields.io/badge/Reinoso-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDzklJo7fDnohdvQJN8rIfQ)
+<a href="https://www.linkedin.com/in/lucas-reinoso-9133b3194/">
+ <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCDzklJo7fDnohdvQJN8rIfQ">
+ <img src="https://img.shields.io/badge/Reinoso-FF0000?style=flat&logo=youtube&logoColor=white" />
+</a>
+<a href="lucas.reinoso.br@gmail.com">
+ <img src="https://img.shields.io/badge/lucas.reinoso.br@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
 
-Email: lucas.reinoso.br@gmail.com
+
+
 
 ## Some Projects:
 
